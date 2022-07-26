@@ -1,5 +1,5 @@
 # Reservation and Booking Management Website
-This repository contains a sample website developed for booking hotels, flights, tours, etc. In addition, 
+This repository contains a website developed for booking hotels, flights, tours, etc. In addition, 
 it includes a booking management section designed for hotel managers to add information and pictures
 of the hotel. The backend of the website under the `Backend` directory is developed using [NodeJS](https://nodejs.org/en/), and the frontend 
 under the `Frontend` directory is developed using [VueJS](https://vuejs.org/). For the database, we used [MongoDB](https://www.mongodb.com/)
